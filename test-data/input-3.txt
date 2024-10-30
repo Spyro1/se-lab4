@@ -1,0 +1,4 @@
+GT4500,1,0,1,0
+TORPEDO,SINGLE # Lő a primaryból
+TORPEDO,SINGLE # Lő a secundaryból
+TORPEDO,SINGLE # Elfogyott

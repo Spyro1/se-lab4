@@ -1,0 +1,2 @@
+GT4500,1,1,1,1 # mindegyik hibás
+TORPEDO,ALL # nem tud lőni

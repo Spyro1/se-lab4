@@ -1,0 +1,6 @@
+GT4500,1,0,0,0 # csak egyiben van
+TORPEDO,ALL # mindegyikből lő, de csakprimaryból jön success
+TORPEDO,ALL # elfogyott
+GT4500,0,0,1,0
+TORPEDO,ALL # mindegyikből lő, de csak secundaryból jön
+TORPEDO,ALL # elfogyott

@@ -1,0 +1,5 @@
+TORPEDO ## syntax error
+ER # nincs ilyen command
+GT4500,1 # nem teljes command
+GT4500,1,0,0,0 # success
+TORPEDO # nem teljes command
