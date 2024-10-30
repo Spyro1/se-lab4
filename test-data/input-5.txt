@@ -1,0 +1,4 @@
+GT4500,1,1,1,0 # primary mindig hibás
+TORPEDO,SINGLE # primary hibás, nem lő
+TORPEDO,SINGLE # secondary lő
+TORPEDO,SINGLE # primary nem lő, secondary mindkettő üres
